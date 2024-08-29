@@ -1,0 +1,39 @@
+html{
+    height: 100%;
+}
+
+body{
+    height: 100%;
+    background-color: black;
+    margin: 0;
+}
+
+.principal{
+    height: 100%;
+    background-image: url('james.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    color: white;
+    font-size: 25px;
+    font-family: Optima, sans-serif	;
+}
+
+#te-amo{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+h2{
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+}
